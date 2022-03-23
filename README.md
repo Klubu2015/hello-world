@@ -1,2 +1,2 @@
-# hello-world
-eka ohjelmisto työ
+Itsestäni
+Hei minun nimi on Harry
